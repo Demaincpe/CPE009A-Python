@@ -3,10 +3,10 @@ Repository for CPE009A Projects. This will be a repository wherein all CPE009A f
 
 # 💫 About Me:
 - I'm currently taking Bachelor of Science in Computer Engineering
+- TESDA Computer System Servicing NC II Certificate Holder (https://drive.google.com/file/u/1/d/1ddblWt9JGtagSSsS-nf0dpVcIqrG5yja/view?usp=drive_link)
 - Tempest Gaming Society - Quezon City's Treasurer
 - AcadArena Alliance Leader of TGS-QC
 - Gamer (Fortnite)
-- TESDA Computer System Servicing NCII Certificate Holder (https://drive.google.com/file/u/1/d/1ddblWt9JGtagSSsS-nf0dpVcIqrG5yja/view?usp=drive_link)
 
 
 ## 🌐 Socials:
